@@ -1,0 +1,4 @@
+# No external dependencies required
+
+Since all modules (`collections`, `ipaddress`, `logging`) are built into Python,
+there are no third-party packages to install.

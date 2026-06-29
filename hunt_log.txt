@@ -1,0 +1,7 @@
+2026-06-23 16:59:30,648 - Threat hunting started.
+2026-06-23 16:59:30,648 - sample.log not found.
+2026-06-23 16:59:30,649 - Threat hunting completed.
+2026-06-23 17:00:16,591 - Threat hunting started.
+2026-06-23 17:00:16,592 - Invalid IP skipped: 300.168.1.50
+2026-06-23 17:00:16,595 - Threat report generated successfully.
+2026-06-23 17:00:16,595 - Threat hunting completed.
