@@ -1,7 +1,3 @@
-t# threat-hunting-v2
-
----
-
 # README.md (Version 2)
 
 ````md
